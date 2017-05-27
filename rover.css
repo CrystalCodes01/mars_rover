@@ -1,32 +1,32 @@
 body {
-   font-family: helvetica;
-   background-color: rgb(244, 248, 249);
-   background-image: url("space.jpg");
+ font-family: helvetica;
+ background-color: rgb(244, 248, 249);
+ background-image: url("space.jpg");
  }
 
- .container {
-   background-color: rgb(255, 255, 255);
-   border: rgb(225, 232, 237);
-   width: 900px;
-   height: 600px;
-   padding: 50px;
-   margin: auto;
-   border: 3px solid rgb(225, 232, 237);
-   border-radius: 30px;
+.container {
+  background-color: rgb(255, 255, 255);
+  border: rgb(225, 232, 237);
+  width: 900px;
+  height: 600px;
+  padding: 50px;
+  margin: auto;
+  border: 3px solid rgb(225, 232, 237);
+  border-radius: 30px;
  }
 
 .form {
-   position: absolute;
-   bottom: 0px;
-   right: 0px;
-   padding: 15px;
-   background-color: rgb(83, 175, 19);
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  padding: 15px;
+  background-color: rgb(83, 175, 19);
  }
 
 .forminput {
-   background-color: rgb(152, 207, 113);
-   border-color: rgb(83, 175, 19);
-   font-size: 1em;
+  background-color: rgb(152, 207, 113);
+  border-color: rgb(83, 175, 19);
+  font-size: 1em;
  }
 
 .forward {
