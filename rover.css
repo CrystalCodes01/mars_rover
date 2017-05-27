@@ -16,27 +16,29 @@ body {
  }
 
 .form {
- 	position: absolute;
- 	bottom: 0px;
- 	right: 0px;
- 	padding: 15px;
- 	background-color: rgb(83, 175, 19);
+   position: absolute;
+   bottom: 0px;
+   right: 0px;
+   padding: 15px;
+   background-color: rgb(83, 175, 19);
  }
+
 .forminput {
- 	background-color: rgb(152, 207, 113);
- 	border-color: rgb(83, 175, 19);
- 	font-size: 1em;
+   background-color: rgb(152, 207, 113);
+   border-color: rgb(83, 175, 19);
+   font-size: 1em;
  }
+
 .forward {
   position: inherit;
   background-color: gray;
-	border-color: gray;
-	font-size: 2em;
+  border-color: gray;
+  font-size: 2em;
   top:  100px;
   left: 180px;
   bottom: 70px;
-	right: 10px;
-	padding: 0px;
+  right: 10px;
+  padding: 0px;
 }
 
 .backward {
@@ -87,11 +89,11 @@ body {
 }
 
 .wrapper {
-    text-align: center;
+ text-align: center;
 }
 
 .button {
-    position: inherit;
-    top: 100%;
-    border: 2px solid rgb(85, 172, 238);
+ position: inherit;
+ top: 100%;
+ border: 2px solid rgb(85, 172, 238);
 }
